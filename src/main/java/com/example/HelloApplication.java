@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 public class HelloApplication {
 
     public static String message() {
-        return "Hello from Java CI/CD on Kubernetes!";
+        return "Hello from Java CI/CD on Kubernetes! and my name is kedar \n ";
     }
 
     public static void main(String[] args) throws IOException {
